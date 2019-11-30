@@ -1,4 +1,7 @@
-# Android Clean Architecture Example
+# Android Sample App
 
-A sample app to showcase Clean Architecture in Android
+A simple showcase app.
 
+## Talks that references to this sample app
+
+- A clean(er) architecture (Milan Kotlin Community Conf 2019)
