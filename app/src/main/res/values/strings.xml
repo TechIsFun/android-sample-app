@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clean Architecture Example</string>
+    <string name="drawer_header_placeholder">drawer header placeholder</string>
+    <string name="menu_item_1">menu item 1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="message_generic_web_service_error">Please check your connection and try again.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
